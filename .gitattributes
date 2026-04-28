@@ -1,0 +1,12 @@
+* text=auto
+
+*.cs text
+*.shader text
+*.cginc text
+*.hlsl text
+
+*.png binary
+*.jpg binary
+*.fbx binary
+*.wav binary
+*.mp4 binary
